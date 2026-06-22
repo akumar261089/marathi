@@ -1,257 +1,555 @@
-# 🔄 UNIT 10: Verb System (क्रियापद व्यवस्था)
+# 📚 UNIT 10: CONTINUOUS TENSE
 
-## 📘 Lesson 17: What is a Verb? (क्रियापद / धातु)
+# (चालू काळ)
 
----
+## 🎯 Goal
 
-### 📖 Explanation
+After this unit, the learner will be able to:
 
-A **verb** tells us **what action is happening**.
-
-| Hindi | Marathi |
-| ----- | ------- |
-| खाना  | खाणे    |
-| पढ़ना | वाचणे   |
-| जाना  | जाणे    |
-| खेलना | खेळणे   |
-
-👉 These **“-णे” forms** are called **धातु** (root verbs).
+✅ Talk about actions happening right now
+✅ Describe actions that were happening in the past
+✅ Describe actions that will be happening in the future
+✅ Use continuous tense naturally in conversations
+✅ Understand the difference between simple and continuous actions
 
 ---
 
-### 🔹 Examples in Sentences
+# 📘 Lesson 31: Present Continuous Tense
 
-- मी **खातो**. (खाणे)
-- ती **वाचते**. (वाचणे)
-- राम **जातो**. (जाणे)
-- मुलगे **खेळतात**. (खेळणे)
-
-👉 **Rule:**
-
-> Verb in sentence = **धातु + change**
+# (वर्तमान चालू काळ)
 
 ---
 
-## ✍️ Practice 1: Identify the Verb (10)
+## 📖 Core Concept
 
-Underline the **verb**.
+Used for actions happening **right now**.
 
-1. मी भाजी **खातो**.
-2. ती पुस्तक **वाचते**.
-3. राम शाळेत **जातो**.
-4. आम्ही मैदानात **खेळतो**.
-5. मुलगा दूध **पितो**.
-6. मुलगी गाणे **ऐकते**.
-7. तो खुर्चीवर **बसतो**.
-8. सीता फुल **आणते**.
-9. अमित चित्र **काढतो**.
-10. मुले धावत **आहेत**.
+### Formula
+
+**Verb Root + त + आहे**
 
 ---
 
-## ✍️ Practice 2: Match Verb to Dhatu (10)
+## Examples
 
-Match correctly.
-
-| Verb Form | Dhatu |
-| --------- | ----- |
-| खातो      | खाणे  |
-| वाचते     | वाचणे |
-| जातो      | जाणे  |
-| खेळतात    | खेळणे |
-| पितो      | पिणे  |
-| बसतो      | बसणे  |
-| आणते      | आणणे  |
-| ऐकतो      | ऐकणे  |
-| काढतो     | काढणे |
-| धावतात    | धावणे |
+| Simple      | Continuous      |
+| ----------- | --------------- |
+| मी खातो     | मी खात आहे      |
+| तो खेळतो    | तो खेळत आहे     |
+| ती वाचते    | ती वाचत आहे     |
+| आम्ही शिकतो | आम्ही शिकत आहोत |
 
 ---
 
-## 🔄 Practice 3: Hindi → Marathi (10)
+## Pronoun Forms
 
-1. मैं खाता हूँ।
-2. वह पढ़ती है।
-3. राम जाता है।
-4. हम खेलते हैं।
-5. लड़का दूध पीता है।
-6. लड़की गाना सुनती है।
-7. वह बैठता है।
-8. सीता फूल लाती है।
-9. अमित चित्र बनाता है।
-10. बच्चे दौड़ते हैं।
-
----
-
-## ✏️ Writing Practice (1)
-
-Write **5 sentences** using **any 5 different verbs**.
+| Pronoun | Continuous Form |
+| ------- | --------------- |
+| मी      | करत आहे         |
+| तू      | करत आहेस        |
+| तो      | करत आहे         |
+| ती      | करत आहे         |
+| आम्ही   | करत आहोत        |
+| तुम्ही  | करत आहात        |
+| ते      | करत आहेत        |
 
 ---
 
----
+## Examples
 
-## 📘 Lesson 18: Verb Change by Gender
-
----
-
-### 📖 Explanation
-
-In Marathi, **verbs change according to gender** of the **karta**.
-
-👉 **Rule:**
-
-> **Who does the action decides the verb form**
+- मी जेवत आहे.
+- तू धावत आहेस.
+- तो पुस्तक वाचत आहे.
+- ती गाणे गात आहे.
+- आम्ही मराठी शिकत आहोत.
+- ते क्रिकेट खेळत आहेत.
 
 ---
 
-### 🔹 Examples
+## ✏️ PRACTICE — LESSON 31
 
-| Gender | Sentence |
-| ------ | -------- |
-| Male   | मी खातो  |
-| Female | मी खाते  |
-| Male   | तो वाचतो |
-| Female | ती वाचते |
+### ✏️ A. Convert to Present Continuous
 
----
-
-## ✍️ Practice 1: Fill in the Blanks (10)
-
-Choose the correct verb.
-
-1. मी \_\_\_ (खातो / खाते)
-2. ती \_\_\_ (वाचतो / वाचते)
-3. राम \_\_\_ (जातो / जाते)
-4. सीता \_\_\_ (जातो / जाते)
-5. तो \_\_\_ (बसतो / बसते)
-6. ती \_\_\_ (खेळतो / खेळते)
-7. अमित \_\_\_ (पितो / पिते)
-8. पूजा \_\_\_ (ऐकतो / ऐकते)
-9. मुलगा \_\_\_ (धावतो / धावते)
-10. मुलगी \_\_\_ (धावतो / धावते)
+1. मी खातो.
+2. तो खेळतो.
+3. ती वाचते.
+4. आम्ही शिकतो.
+5. तुम्ही बसता.
+6. ते धावतात.
+7. मी लिहितो.
+8. ती गाते.
+9. तो बोलतो.
+10. आम्ही पाहतो.
 
 ---
 
-## ✍️ Practice 2: Change Gender (10)
+### ✏️ B. Fill in the Blanks
 
-Change **male → female**.
+1. मी जेवत **\_**.
+2. तो खेळत **\_**.
+3. ती वाचत **\_**.
+4. आम्ही शिकत **\_**.
+5. तुम्ही बसत **\_**.
+6. ते धावत **\_**.
+7. मी लिहित **\_**.
+8. ती गात **\_**.
+9. तो बोलत **\_**.
+10. आम्ही पाहत **\_**.
 
-1. तो खातो → \_\_\_
-2. राम वाचतो → \_\_\_
-3. अमित जातो → \_\_\_
-4. मुलगा बसतो → \_\_\_
-5. तो खेळतो → \_\_\_
-6. राम पितो → \_\_\_
-7. तो धावतो → \_\_\_
-8. मित्र येतो → \_\_\_
-9. मुलगा ऐकतो → \_\_\_
-10. तो काढतो → \_\_\_
-
----
-
-## 🔄 Practice 3: Hindi → Marathi (10)
-
-1. वह खाती है।
-2. लड़की पढ़ती है।
-3. सीता जाती है।
-4. वह बैठती है।
-5. लड़की खेलती है।
-6. पूजा सुनती है।
-7. वह दौड़ती है।
-8. बहन आती है।
-9. लड़की पीती है।
-10. वह बनाती है।
+(आहे / आहेस / आहोत / आहात / आहेत)
 
 ---
 
-## ✏️ Writing Practice (1)
+### ✏️ C. Hindi → Marathi
 
-Write **6 sentences**:
-
-- 3 with **male karta**
-- 3 with **female karta**
-
----
-
----
-
-## 📘 Lesson 19: Verb Change by Number (Singular / Plural)
-
----
-
-### 📖 Explanation
-
-Verbs also change based on **how many people** are doing the action.
-
-👉 **Rule:**
-
-> One → singular verb
-> Many → plural verb
+1. मैं खाना खा रहा हूँ।
+2. वह खेल रहा है।
+3. वह पढ़ रही है।
+4. हम सीख रहे हैं।
+5. आप बैठ रहे हैं।
+6. वे दौड़ रहे हैं।
+7. मैं लिख रहा हूँ।
+8. वह गाना गा रही है।
+9. वह बात कर रहा है।
+10. हम देख रहे हैं।
 
 ---
 
-### 🔹 Examples
+### ✏️ D. Writing Practice
 
-- मुलगा खेळतो
-
-- मुलगे खेळतात
-
-- ती वाचते
-
-- मुली वाचतात
+Write 10 sentences about what people are doing right now.
 
 ---
 
-## ✍️ Practice 1: Fill in the Blanks (10)
+# 📘 Lesson 32: Past Continuous Tense
 
-1. मुलगा \_\_\_ (खेळतो / खेळतात)
-2. मुलगे \_\_\_ (खेळतो / खेळतात)
-3. मुलगी \_\_\_ (वाचते / वाचतात)
-4. मुली \_\_\_ (वाचते / वाचतात)
-5. तो \_\_\_ (जातो / जातात)
-6. ते \_\_\_ (जातो / जातात)
-7. राम \_\_\_ (बसतो / बसतात)
-8. मुले \_\_\_ (धावतो / धावतात)
-9. ती \_\_\_ (ऐकते / ऐकतात)
-10. त्या \_\_\_ (ऐकते / ऐकतात)
+# (भूतकाळ चालू काळ)
 
 ---
 
-## ✍️ Practice 2: Change to Plural (10)
+## 📖 Core Concept
 
-1. तो खातो → \_\_\_
-2. मुलगा खेळतो → \_\_\_
-3. ती वाचते → \_\_\_
-4. मुलगी बसते → \_\_\_
-5. राम जातो → \_\_\_
-6. तो धावतो → \_\_\_
-7. मित्र येतो → \_\_\_
-8. तो ऐकतो → \_\_\_
-9. मुलगा पितो → \_\_\_
-10. तो काढतो → \_\_\_
+Used for actions that were happening in the past.
+
+### Formula
+
+**Verb Root + त + होता / होती / होते**
 
 ---
 
-## 🔄 Practice 3: Hindi → Marathi (10)
+## Examples
 
-1. लड़के खेलते हैं।
-2. लड़कियाँ पढ़ती हैं।
-3. वे जाते हैं।
-4. बच्चे दौड़ते हैं।
-5. दोस्त आते हैं।
-6. लड़के बैठते हैं।
-7. लड़कियाँ सुनती हैं।
-8. बच्चे पीते हैं।
-9. वे बनाते हैं।
-10. बच्चे लिखते हैं।
+| Present Continuous | Past Continuous |
+| ------------------ | --------------- |
+| खात आहे            | खात होता        |
+| खेळत आहे           | खेळत होता       |
+| वाचत आहे           | वाचत होती       |
 
 ---
 
-## ✏️ Writing Practice (1)
+## Gender Forms
 
-Write **8 sentences**:
+| Gender    | Form |
+| --------- | ---- |
+| Masculine | होता |
+| Feminine  | होती |
+| Plural    | होते |
 
-- 4 **singular**
-- 4 **plural**
-  👉 Use **different verbs**.
+---
+
+## Examples
+
+- मी काल जेवत होतो.
+- ती पुस्तक वाचत होती.
+- तो क्रिकेट खेळत होता.
+- आम्ही टीव्ही पाहत होतो.
+- ते मैदानात धावत होते.
+
+---
+
+## ✏️ PRACTICE — LESSON 32
+
+### ✏️ A. Convert to Past Continuous
+
+1. मी खात आहे.
+2. तो खेळत आहे.
+3. ती वाचत आहे.
+4. आम्ही शिकत आहोत.
+5. ते धावत आहेत.
+6. मी लिहित आहे.
+7. ती गात आहे.
+8. तो बोलत आहे.
+9. आम्ही पाहत आहोत.
+10. मुले खेळत आहेत.
+
+---
+
+### ✏️ B. Fill in the Blanks
+
+1. मी खात **\_**.
+2. तो खेळत **\_**.
+3. ती वाचत **\_**.
+4. आम्ही शिकत **\_**.
+5. ते धावत **\_**.
+6. मी लिहित **\_**.
+7. ती गात **\_**.
+8. तो बोलत **\_**.
+9. आम्ही पाहत **\_**.
+10. मुले खेळत **\_**.
+
+(होतो / होती / होते)
+
+---
+
+### ✏️ C. Hindi → Marathi
+
+1. मैं खाना खा रहा था।
+2. वह खेल रहा था।
+3. वह पढ़ रही थी।
+4. हम सीख रहे थे।
+5. वे दौड़ रहे थे।
+6. मैं लिख रहा था।
+7. वह गाना गा रही थी।
+8. वह बात कर रहा था।
+9. हम देख रहे थे।
+10. बच्चे खेल रहे थे।
+
+---
+
+### ✏️ D. Writing Practice
+
+Write 10 sentences describing what people were doing yesterday.
+
+---
+
+# 📘 Lesson 33: Future Continuous Tense
+
+# (भविष्य चालू काळ)
+
+---
+
+## 📖 Core Concept
+
+Used for actions that will be happening at a future time.
+
+### Formula
+
+**Verb Root + त + असेल / असतील**
+
+---
+
+## Examples
+
+- मी उद्या अभ्यास करत असेन.
+- तो क्रिकेट खेळत असेल.
+- ती पुस्तक वाचत असेल.
+- आम्ही प्रवास करत असू.
+- ते काम करत असतील.
+
+---
+
+## Examples
+
+- उद्या मी शाळेत जात असेन.
+- तो रात्री अभ्यास करत असेल.
+- ती गाणे गात असेल.
+- आम्ही चित्रपट पाहत असू.
+- ते खेळत असतील.
+
+---
+
+## ✏️ PRACTICE — LESSON 33
+
+### ✏️ A. Convert to Future Continuous
+
+1. मी शिकत आहे.
+2. तो खेळत आहे.
+3. ती वाचत आहे.
+4. आम्ही जात आहोत.
+5. ते धावत आहेत.
+6. मी लिहित आहे.
+7. ती गात आहे.
+8. तो बोलत आहे.
+9. आम्ही पाहत आहोत.
+10. मुले खेळत आहेत.
+
+---
+
+### ✏️ B. Fill in the Blanks
+
+1. मी अभ्यास करत **\_**.
+2. तो खेळत **\_**.
+3. ती वाचत **\_**.
+4. आम्ही जात **\_**.
+5. ते धावत **\_**.
+6. मी लिहित **\_**.
+7. ती गात **\_**.
+8. तो बोलत **\_**.
+9. आम्ही पाहत **\_**.
+10. मुले खेळत **\_**.
+
+(असेन / असेल / असू / असतील)
+
+---
+
+### ✏️ C. Hindi → Marathi
+
+1. मैं पढ़ रहा होऊँगा।
+2. वह खेल रहा होगा।
+3. वह पढ़ रही होगी।
+4. हम जा रहे होंगे।
+5. वे दौड़ रहे होंगे।
+6. मैं लिख रहा होऊँगा।
+7. वह गाना गा रही होगी।
+8. वह बात कर रहा होगा।
+9. हम देख रहे होंगे।
+10. बच्चे खेल रहे होंगे।
+
+---
+
+### ✏️ D. Writing Practice
+
+Write 10 sentences about tomorrow using future continuous tense.
+
+---
+
+# 📘 Lesson 34: Continuous vs Simple Tense
+
+---
+
+## 📖 Difference
+
+### Simple Action
+
+Habit / regular action
+
+- मी जेवतो.
+- तो खेळतो.
+- ती वाचते.
+
+### Continuous Action
+
+Happening right now
+
+- मी जेवत आहे.
+- तो खेळत आहे.
+- ती वाचत आहे.
+
+---
+
+## Compare
+
+| Simple     | Continuous     |
+| ---------- | -------------- |
+| मी शिकतो   | मी शिकत आहे    |
+| तो धावतो   | तो धावत आहे    |
+| ती गाते    | ती गात आहे     |
+| आम्ही बसतो | आम्ही बसत आहोत |
+
+---
+
+## ✏️ PRACTICE — LESSON 34
+
+### ✏️ A. Identify the Tense
+
+1. मी खातो.
+2. मी खात आहे.
+3. तो खेळत आहे.
+4. ती वाचते.
+5. आम्ही शिकत आहोत.
+6. ते धावतात.
+7. ती गात आहे.
+8. तो बसतो.
+9. आम्ही पाहत आहोत.
+10. मुले खेळतात.
+
+Write:
+
+- Simple
+- Continuous
+
+---
+
+### ✏️ B. Convert
+
+1. मी वाचतो → Continuous
+2. तो खेळतो → Continuous
+3. ती गाते → Continuous
+4. आम्ही बसतो → Continuous
+5. ते धावतात → Continuous
+
+---
+
+### ✏️ C. Convert Back
+
+1. मी खात आहे → Simple
+2. तो खेळत आहे → Simple
+3. ती वाचत आहे → Simple
+4. आम्ही शिकत आहोत → Simple
+5. ते धावत आहेत → Simple
+
+---
+
+### ✏️ D. Writing Practice
+
+Write 5 pairs:
+
+Example:
+
+- मी जेवतो.
+- मी जेवत आहे.
+
+---
+
+# 📘 Lesson 35: Daily Life Conversations Using Continuous Tense
+
+---
+
+## Conversation 1
+
+### Marathi
+
+A: तू काय करत आहेस?
+
+B: मी पुस्तक वाचत आहे.
+
+A: कोणते पुस्तक वाचत आहेस?
+
+B: मराठी व्याकरणाचे पुस्तक.
+
+---
+
+## Conversation 2
+
+A: आई कुठे आहे?
+
+B: ती स्वयंपाक करत आहे.
+
+A: बाबा काय करत आहेत?
+
+B: ते टीव्ही पाहत आहेत.
+
+---
+
+## Conversation 3
+
+A: मुले काय करत आहेत?
+
+B: ते मैदानात क्रिकेट खेळत आहेत.
+
+---
+
+## ✏️ PRACTICE — LESSON 35
+
+### ✏️ A. Answer the Questions
+
+1. तू काय करत आहेस?
+2. तुझी आई काय करत आहे?
+3. तुझे मित्र काय करत आहेत?
+4. शिक्षक काय करत आहेत?
+5. तुझे वडील काय करत आहेत?
+
+---
+
+### ✏️ B. Create a Conversation
+
+Write an 8-line conversation using:
+
+- करत आहे
+- करत आहेत
+- वाचत आहे
+- खेळत आहे
+
+---
+
+# 🎯 UNIT 10 FINAL REVIEW
+
+## A. Convert to Present Continuous
+
+1. मी खातो.
+2. तो धावतो.
+3. ती गाते.
+4. आम्ही शिकतो.
+5. ते खेळतात.
+
+---
+
+## B. Convert to Past Continuous
+
+1. मी खात आहे.
+2. तो खेळत आहे.
+3. ती वाचत आहे.
+4. आम्ही जात आहोत.
+5. ते धावत आहेत.
+
+---
+
+## C. Convert to Future Continuous
+
+1. मी शिकत आहे.
+2. तो बोलत आहे.
+3. ती गात आहे.
+4. आम्ही पाहत आहोत.
+5. ते खेळत आहेत.
+
+---
+
+## D. Hindi → Marathi
+
+1. मैं खाना खा रहा हूँ।
+2. वह खेल रहा था।
+3. वह पढ़ रही होगी।
+4. हम सीख रहे हैं।
+5. बच्चे खेल रहे थे।
+6. मैं लिख रहा होऊँगा।
+7. वह बात कर रहा है।
+8. वे दौड़ रहे होंगे।
+9. हम देख रहे थे।
+10. वह गाना गा रही है।
+
+---
+
+## E. Writing Challenge
+
+Write **15 sentences**:
+
+- 5 Present Continuous
+- 5 Past Continuous
+- 5 Future Continuous
+
+Use:
+
+- school
+- family
+- friends
+- sports
+- study
+
+---
+
+# 🏆 UNIT 10 SUMMARY
+
+### Present Continuous
+
+- करत आहे
+- खेळत आहे
+- वाचत आहे
+
+### Past Continuous
+
+- करत होता
+- खेळत होती
+- वाचत होते
+
+### Future Continuous
+
+- करत असेल
+- खेळत असेल
+- वाचत असतील
+
+### Key Question
+
+**तू काय करत आहेस?**
+→ What are you doing?
+
+✅ After Unit 10, the learner can describe ongoing actions in the present, past, and future and is ready for **UNIT 11: Ability, Permission & Obligation (शक्यता, परवानगी आणि कर्तव्य)**.
